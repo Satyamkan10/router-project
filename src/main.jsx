@@ -4,7 +4,7 @@ import './index.css'
  import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import Home from "./components/Home/Home" 
 import About from './components/About/About'
-import Layout from './layout'
+import Layout from './Layout'
 import ContactUs from './components/Contact Us/ContactUs'
 import User from './components/User/User'
 import Github, { githubInfoLoader } from './components/Github/Github'
